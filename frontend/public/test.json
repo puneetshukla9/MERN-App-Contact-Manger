@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "fname": "Elon",
+            "lname": "Musk",
+            "id": 1,
+            "company": "xyz",
+            "position": "Ceo",
+            "dept": "HR"
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+module.exports= {
+    VALIDATION_FAILED: 400,
+    FORBIDDEN: 401,
+    PERMISSI_DENIED: 403,
+    NOT_FOUND: 404
+}
